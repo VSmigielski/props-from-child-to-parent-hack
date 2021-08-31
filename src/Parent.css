@@ -1,0 +1,13 @@
+.parent {
+    background-color: purple;
+    border-radius: 20px;
+    width: 400px;
+    height: 425px;
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 10px;
+}
